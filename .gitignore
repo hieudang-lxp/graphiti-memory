@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+memory/queue.jsonl
+memory/state.json
+memory/worker.offset
+memory/*.log
+
+sample_chat.json
+*.plist
